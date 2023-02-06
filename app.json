@@ -24,11 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.divyanshubaghel1.snackd6422f3ffd0e430fbaa9c3ff8a4fc6af"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Public Doc editing App\n"
+    "description": "Public Doc editing App\n",
+    "extra": {
+      "eas": {
+        "projectId": "00f643ca-cb67-4210-acb9-06dcf4e9b4a9"
+      }
+    }
   }
 }
