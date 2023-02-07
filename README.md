@@ -11,4 +11,4 @@
 
 ### Screenshot:
 
-![livedoc](./assets/livedocs.jpg)
+![livedoc](./assets/doc.jpg)
