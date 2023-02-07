@@ -11,4 +11,4 @@
 
 ### Screenshot:
 
-![alt livedoc](./assets/livedoc.jpg | width=100px)
+![livedoc|50](./assets/livedoc.jpg)
